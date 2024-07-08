@@ -1,0 +1,37 @@
+[
+    {
+        "problem": "The question goes here",
+        "expected_output": "This is the place where you place the expected aka correct answer",
+        "mathgpt_output": "You can leave this empty",
+        "image_file_path": "If the question is in a picture put the name of the file here",
+        "label": "What type of question does this problem falls in should be specified here"
+    },
+    {
+        "problem": "",
+        "expected_output": "",
+        "mathgpt_output": "",
+        "image_file_path": "",
+        "label": ""
+    },
+    {
+        "problem": "Janet rolls a standard $6$-sided die $4$ times and keeps a running total of the numbers she rolls. What is the probability that at some point, her running total will equal $3?$",
+        "expected_output": "49/216",
+        "mathgpt_output": "",
+        "image_file_path": "",
+        "label": "Statistics"
+    },
+    {
+        "problem": "Cities $A$ and $B$ are $45$ miles apart. Alicia lives in $A$ and Beth lives in $B$. Alicia bikes towards $B$ at 18 miles per hour. Leaving at the same time, Beth bikes toward $A$ at 12 miles per hour. How many miles from City $A$ will they be when they meet?",
+        "expected_output": "27",
+        "mathgpt_output": "",
+        "image_file_path": "",
+        "label": "AMC12"
+    },
+    {
+        "problem": "Cities $A$ and $B$ are $45$ miles apart. Alicia lives in $A$ and Beth lives in $B$. Alicia bikes towards $B$ at 18 miles per hour. Leaving at the same time, Beth bikes toward $A$ at 12 miles per hour. How many miles from City $A$ will they be when they meet?",
+        "expected_output": "27",
+        "mathgpt_output": "",
+        "image_file_path": "",
+        "label": "AMC12"
+    }
+]
